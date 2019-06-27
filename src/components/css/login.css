@@ -1,0 +1,47 @@
+.login h2 {
+    font-weight: 700;
+    color: #0e292e
+}
+.authbox-header-text span {
+    color: #838e7d;
+}
+.login .signup-link {
+    color: #19bcdb;
+    text-decoration: none;
+}
+.login .signup-link:hover {
+    color: #2596aa
+}
+.gmail {
+    background-color: #b23121;
+    padding: 10px 50px 10px 50px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid ;
+   
+}
+.gmail:hover {
+    background-color: #d44638;
+    color: #fff;
+    border: 2px solid #d44638;
+}
+.facebook{
+    background-color: #3b5998;
+    padding: 10px 50px 10px 50px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid ;
+}
+.facebook:hover {
+    background-color: #4267b2;
+    color: #fff;
+    border: 2px solid #4267b2;
+}

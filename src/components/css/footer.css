@@ -1,0 +1,53 @@
+.page-footer {
+    background-color: #11333a;
+    
+  }
+  .widget h3{
+    font-size: 25px;
+    color: #fff;
+    font-weight: 600;
+  }
+  .widget li a {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #818c76;
+  }
+  .widget li {
+    margin-bottom: 20px;
+  }
+  .widget ul li {
+    font-size: 12px;
+    
+    margin-right: 5px;
+  }
+  .widget i {
+    color: #818c76
+  }
+  .widget i:hover {
+    color: #ec5c42
+  }
+  
+  
+  .content {
+    margin-top: 100px;
+  }
+  .content h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .content .highlight {
+  color: #19bcdb;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 25px;
+  }
+  .content p {
+    color: #838e7d;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+  }

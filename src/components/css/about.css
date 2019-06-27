@@ -1,0 +1,9 @@
+.about p {
+    margin-left: 40px;
+    color: #919899;
+}
+.about span {
+    color: #19bcdb;
+    font-weight: 600;
+    font-size: 20px;
+}

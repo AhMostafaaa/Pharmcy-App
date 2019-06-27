@@ -1,0 +1,69 @@
+
+.theme-button {
+  background-color: none;
+  padding: 10px 50px 10px 50px;
+  line-height: 80px;
+  height: 50px;
+  color: #ec5c42;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid #ec5c42;
+}
+.theme-button:hover  {
+  color: #fff;
+  background-color: #ec5c42;
+  text-decoration: none;
+}
+
+
+.alert {
+ background-color:  #0e292e;
+ color: #838e7d;
+}
+@media only screen and (max-width: 600px) {
+.banner i {
+  padding-right: 8px;
+}
+  .article {
+    background: none;}
+    .bgtitle{
+       padding-top: 20%
+    }
+    .tb-mask h1 span {
+      font-size: 6vw;
+    }
+    .tb-warp h1 span {
+      font-size: 6vw;
+    }
+    .tb-pragraph p span{
+      font-size: 3vw;
+      padding-bottom: 10px;
+    }
+    .section-head h1 {
+      font-size: 5vw;
+    }
+    .section-head h3 {
+      font-size: 4vw;
+    }
+    .article .article-btn {
+      margin-left: 0px;
+    }
+} 
+.article .card-body a:hover {
+  color: #19bcdb
+}
+
+.form-group textarea {
+  resize: none;
+}
+
+.health .btn {
+  background-color: #19bcdb;
+  color: #fff
+}
+.health p {
+  color: #919899;
+}
